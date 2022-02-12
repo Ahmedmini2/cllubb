@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846810619123",
+    "project_id": "cllubb-73567",
+    "storage_bucket": "cllubb-73567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846810619123:android:c3548e23a68876e6b26b86",
+        "android_client_info": {
+          "package_name": "c.cllubb.com.cllubb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846810619123-v4gc1t1849dtefdh4rnhg3m8bp7ist00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.cllubb.com.cllubb",
+            "certificate_hash": "189cef3b2095af60463c6a2f5607480d466fcafd"
+          }
+        },
+        {
+          "client_id": "846810619123-gsnfqg6hcgbdm5a4eg1slg03d756ke1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnxpatbxLzLCymoQWlJSvUeLYguKCd_BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846810619123-gsnfqg6hcgbdm5a4eg1slg03d756ke1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

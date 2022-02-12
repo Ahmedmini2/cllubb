@@ -1,0 +1,60 @@
+{
+  "language" : "العربية",
+  "@language": {
+    "description": "The Current Language"
+  },
+  "guest": "Guest",
+  "email": "Email",
+  "emailvalidate": "Please Enter an Email",
+  "emailvalidate2": "Please Enter Valid Email Address",
+  "password": "Password",
+  "passwordvalidate": "Please Enter Your Password",
+  "passwordvalidate2": "Password Must Be More Than 6 Character",
+  "passwordforget": "Forget Your Password ?",
+  "remamberme": "Remember Me",
+  "login": "Log In",
+  "googlesignin": "Sign In With Google Account",
+  "createnew": "Create New Account",
+
+
+
+  "cancel": "Cancel",
+  "createnewmain": "Create New Account In CLLUBB",
+  "createnewmain2": "Please Enter Your Information",
+  "firstname": "First Name",
+  "firstnamevalidate": "Please Enter Your First Name",
+  "lastname": "Last Name",
+  "lastnamevalidate": "Please Enter Your Last Name",
+  "phone": "Phone Number",
+  "phonevalidate": "Phone Number Must Be More Than 10",
+  "confirmpassword": "Confirm Password",
+  "confirmpasswordvalidate": "Password Not Match",
+  "signup": "Sign Up",
+
+
+
+  "factory" : "CLLUBB Marketing Factory",
+  "categories": "Categories",
+  "crypto": "CLB Cryptocurrency",
+  "realestatemarketing": "Real Estate Marketing Management",
+  "services" : "Services",
+  "dashboard": "Social Media",
+  "myaccount": "My Account",
+  "media": "Media",
+
+
+
+  "wallet": "Wallet",
+  "paymentmethods": "Payment Methods",
+  "transactionshistory": "Transaction History",
+  "changepassword": "Change Password",
+  "showorhide": "Show / Hide Services",
+  "about": "About",
+  "worldver": " CLLUBB v1.0",
+  "contactus": "Contact Us",
+  "whitePaper": "White Paper",
+  "shareapp" : "Share Our Application",
+  "loginorout": "Log In / Out"
+
+
+}

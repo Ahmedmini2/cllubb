@@ -1,0 +1,54 @@
+{
+  "language" : "English",
+  "guest": "ضيف",
+  "email": "البريد الالكتروني",
+  "emailvalidate": "الرجاء ادخال بريدك الالكتروني",
+  "emailvalidate2": "الرجاء ادخال بريد الكتروني صحيح",
+  "password": "كلمة المرور",
+  "passwordvalidate": "الرجاء ادخال كلمة المرور",
+  "passwordvalidate2": "الرجاء ادخال كلمة المرور اكثر من 6 حروف",
+  "passwordforget": "هل نسيت كلمة المرور",
+  "remamberme": "حفظ بيانات الدخول",
+  "login": "تسجيل الدخول",
+  "googlesignin": "تسجيل الدخول بحساب قوقل",
+  "createnew": "انشاء حساب جديد",
+
+
+
+  "cancel": "الغاء",
+  "createnewmain": "إنشاء حساب جديد ل CLLUBB",
+  "createnewmain2": "الرجاء ادخال بياناتك",
+  "firstname": "الاسم الاول",
+  "firstnamevalidate": "رجاءا ادخل اسمك الاول",
+  "lastname": "الاسم الاخير",
+  "lastnamevalidate": "رجاءا ادخل اسمك الاخير",
+  "phone": "رقم الهاتف",
+  "phonevalidate": "رقم الهاتف يجب ان يكون اكثر من 10 ارقام",
+  "confirmpassword": "تأكيد كلمة المرور",
+  "confirmpasswordvalidate": "كلمة المرور غير مطابقة",
+  "signup": "تسجيل",
+
+
+
+  "factory" : "منصع تسويق CLLUBB",
+  "categories": "الفئات",
+  "crypto": "عملة CLB الرقمية",
+  "services" : "الخدمات",
+  "dashboard": "التواصل الاجتماعي",
+  "myaccount": "حسابي",
+  "media": "ميديا",
+
+
+  "wallet": "المحفظة",
+  "paymentmethods": "طرق الدفع",
+  "transactionshistory": "المعاملات السابقة",
+  "changepassword": "تغيير كلمة المرور",
+  "showorhide": "اظهار او اخفاء الخدمات",
+  "about": "عن ",
+  "worldver": " CLLUBB v1.0@",
+  "contactus": "تواصل معنا",
+  "whitePaper": "الورقة البيضاء",
+  "shareapp" : "شارك تطبيقنا",
+  "loginorout": "تسجيل الدخول \\ الخروج"
+
+}
